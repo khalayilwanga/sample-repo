@@ -4,3 +4,4 @@ stashed change 1.
 
 Added in fourth_branch
 
+Added in fourth_branch=remote
